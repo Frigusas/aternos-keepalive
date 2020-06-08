@@ -32,4 +32,4 @@ A minecraft bot to keep your Aternos server running
 ##### Open command prompt, navigate to the folder with index.js and type `node index.js` (if you don't have node installed go to nodejs.org)
 
 
-## If you have any issues or questions join my discord server https://discord.gg/zGVUQuB
+## If you have any issues or questions create an issue on github or join my discord server https://discord.gg/zGVUQuB
