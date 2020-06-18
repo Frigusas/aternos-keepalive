@@ -4,7 +4,7 @@ A minecraft bot to keep your Aternos server running
 ## How to install
 
 - #### Glitch method (they host it)
-  - ##### First go to https://glitch.com/edit/#!/remix/aternos-keepalive and remix it
+  - ##### First go to https://glitch.com/edit/#!/remix/aternos-keepalive and remix it (it is in the glitch branch)
    - ##### Wait for it to load and edit these parts of index.js as shown below:
 <p align="center">
   <img width="460" height="300" src="http://block-is-a-virgin.glitch.me/i/AcWAQKnN.png">
@@ -18,7 +18,7 @@ A minecraft bot to keep your Aternos server running
 
 
 - #### Self-hosting
-  - ##### Clone the repo or download it
+  - ##### Clone the selfhost branch or download it
    - ##### Edit these parts of index.js as shown below:
 <p align="center">
   <img width="460" height="300" src="http://block-is-a-virgin.glitch.me/i/AcWAQKnN.png">
