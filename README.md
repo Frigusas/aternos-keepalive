@@ -5,7 +5,7 @@ A minecraft bot to keep your Aternos server running
 
 - #### Glitch method (they host it)
   - ##### First go to https://glitch.com/edit/#!/remix/aternos-keepalive and remix it
-   - ##### Wait for it to liad and edit these parts of index.js as shown below:
+   - ##### Wait for it to load and edit these parts of index.js as shown below:
 <p align="center">
   <img width="460" height="300" src="http://block-is-a-virgin.glitch.me/i/AcWAQKnN.png">
 </p>
